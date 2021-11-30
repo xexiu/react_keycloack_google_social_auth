@@ -28,5 +28,5 @@
 - In authorized redirect uris, paste the uri from your Keycloack Provider (see steps 4 and 5 to retrieve the redirect uri from keycloack providers)
 - You will get a Client ID and a Client Secret. Save them cause we will need them later!
 - Go back to your Keycloack Admin where you left it open (step 5). And fill in the Client ID and Client Secret
-- Create a new client on your Keyloack admin -> Clients (left menu sidebar) -> Create (upper right corner)
+- Create a new client on your Keyloack admin -> Clients (left menu sidebar) -> Create (upper right corner). In this example we are using/creating a client with name: `react-keycloack-google-social-auth`
 - Visit `http://localhost:3000/` you should see the login form with Google Sign In option
