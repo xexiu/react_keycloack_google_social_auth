@@ -1,0 +1,9 @@
+{
+    "realm": "googleAuth",
+    "url": "http://localhost:8080/auth/",
+    "ssl-required": "external",
+    "resource": "react-keycloack-google-social-auth",
+    "public-client": true,
+    "confidential-port": 0,
+    "clientId": "react-keycloack-google-social-auth"
+  }
